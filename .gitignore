@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*/.DS_Store
+.idea/
+.env
+.env.*
+*.fulfillment-keys-dev.json
+fulfillment-keys-dev.json
